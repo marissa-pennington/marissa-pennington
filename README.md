@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marissa-pennington
 - 👀 I’m interested in full-stack web development and solving fun problems
-- 🌱 I’m currently learning NestJS
+- 🌱 I’m currently learning NestJS and cloud platforms technologies 
 - 📫 mmcpennington@gmail.com 
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love to cook and travel, I have 4 pets, and I saw the Eras tour twice

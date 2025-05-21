@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NestJS and cloud platforms technologies 
 - 📫 mmcpennington@gmail.com 
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I love to cook and travel, I have 4 pets, and I saw the Eras tour twice
+- ⚡ Fun fact: I love to cook and travel, I have 5 pets, and I saw the Eras tour twice
 
 <!---
 marissa-pennington/marissa-pennington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
